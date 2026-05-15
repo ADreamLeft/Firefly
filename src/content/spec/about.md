@@ -1,38 +1,22 @@
-# 关于我 / About Me
+# 关于我们
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+这里是一个用来记录恋爱日常的小站。
 
-## 🛠️ 关于本站
+第一版先使用占位图片和占位文字，把首页、时间线、相册和文章结构搭起来。之后可以慢慢替换成真实照片、真实日期和真正想保存的故事。
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+## 这个小站会记录什么
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+- 平时一起吃饭、散步、聊天的日常
+- 旅行、约会、纪念日和临时起意的小计划
+- 一些以后回看时会觉得很珍贵的生活碎片
 
+> [!TIP]
+> 当前内容都是占位。正式使用时，建议避免放真实住址、联系方式、证件、行程细节和带定位信息的原图。
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+## 关于模板
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板。Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
+感谢原作者提供的开源主题。后续如果继续定制，可以在保留版权声明的基础上修改页面结构、颜色、相册和文章内容。
 
 ::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
-
-## 📫 联系方式
-
-如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
-
-- 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
-- ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
-- 🐧 **QQ交流群：[1087127207](https://qm.qq.com/q/ZGsFa8qX2G)**
-
----
-
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-

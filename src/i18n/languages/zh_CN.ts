@@ -3,8 +3,8 @@ import type { Translation } from "../translation";
 
 export const zh_CN: Translation = {
 	[Key.home]: "主页",
-	[Key.about]: "关于我",
-	[Key.archive]: "归档",
+	[Key.about]: "关于我们",
+	[Key.archive]: "时间线",
 	[Key.search]: "搜索",
 	[Key.searchNoResults]: "找不到相关结果。",
 	[Key.searchTypeSomething]: "请输入搜索关键词。",
@@ -17,8 +17,8 @@ export const zh_CN: Translation = {
 
 	[Key.tags]: "标签",
 	[Key.categories]: "分类",
-	[Key.recentPosts]: "最新文章",
-	[Key.postList]: "文章列表",
+	[Key.recentPosts]: "最近记录",
+	[Key.postList]: "日常记录",
 	[Key.tableOfContents]: "文章目录",
 	[Key.tocEmpty]: "当前页面没有目录",
 	[Key.music]: "音乐",
@@ -297,7 +297,7 @@ export const zh_CN: Translation = {
 
 	// 相册页面
 	[Key.gallery]: "相册",
-	[Key.galleryDescription]: "记录生活中的美好瞬间",
+	[Key.galleryDescription]: "收好一起走过的画面",
 	[Key.galleryPhotos]: "张照片",
 	[Key.galleryAlbums]: "本相册",
 	[Key.galleryNoAlbums]: "暂无相册",
