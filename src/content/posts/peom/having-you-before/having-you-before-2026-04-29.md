@@ -2,7 +2,7 @@
 title: 拥有你以前
 published: 2026-04-29
 description: 许湘悦眼里的我
-image: ""
+image: "./cover.jpg"
 tags: [诗, 生活碎片]
 category: 纪念
 draft: false

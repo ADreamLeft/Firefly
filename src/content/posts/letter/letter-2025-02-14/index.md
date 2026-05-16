@@ -3,7 +3,7 @@ title: 情人节记录
 published: 2025-02-14
 description: 陪伴将是我用一生对你的告白
 image: ""
-tags: [信, 胡中山, 许湘悦, 情人节]
+tags: [信, 情人节]
 category: 纪念
 draft: false
 ---
