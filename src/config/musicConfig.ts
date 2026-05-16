@@ -53,7 +53,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				name: "想把我唱给你听",
 				artist: "老狼 / 王婧",
 				url: "/assets/music/xiang-ba-wo-chang-gei-ni-ting.flac",
-				cover: "/assets/music/cover-xiang-ba-wo-chang-gei-ni-ting.png",
+				cover: "/assets/music/wang-jing.jpg",
 				lrc: "",
 			},
 		],
