@@ -9,5 +9,3 @@ draft: false
 ---
 
 这是一张属于 xxy 和她的小娇妻的日常拼贴。
-
-![xxy 和她的小娇妻](./cover.jpg)
