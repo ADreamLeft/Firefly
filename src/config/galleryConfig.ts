@@ -16,12 +16,31 @@ export const galleryConfig: GalleryConfig = {
 		// passwordHint: 密码提示，设置后在输入密码错误时显示（可选，需配合password使用）
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
-			id: "our-days-2026",
-			name: "我们的日常",
-			description: "先用占位图收好第一批相册位置，之后替换成真实照片。",
+			id: "daily-2026",
+			cover: "/gallery/daily-2026/association__1778999347566.jpg",
+			name: "2026 年日常",
+			description: "2026 年一起留下的生活碎片。",
 			location: "一起走过的地方",
 			date: "2026-01-01",
-			tags: ["一起", "生活碎片", "占位"],
+			tags: ["一起", "生活碎片", "2026"],
+		},
+		{
+			id: "daily-2025",
+			cover: "/gallery/daily-2025/yuyuantan__IMG_20250322_110812.jpg",
+			name: "2025 年日常",
+			description: "2025 年一起留下的生活碎片。",
+			location: "一起走过的地方",
+			date: "2025-01-01",
+			tags: ["一起", "生活碎片", "2025"],
+		},
+		{
+			id: "daily-2024",
+			cover: "/gallery/daily-2024/start-of-everything__cover.jpg",
+			name: "2024 年日常",
+			description: "2024 年一起留下的生活碎片。",
+			location: "一起走过的地方",
+			date: "2024-01-01",
+			tags: ["一起", "生活碎片", "2024"],
 		},
 	],
 
