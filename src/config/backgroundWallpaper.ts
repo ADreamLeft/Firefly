@@ -71,7 +71,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			subtitle: [
 				"把普通的日子慢慢收好",
 				"在散步和晚风里留下脚印",
-				"等真实照片和故事一点点填满这里",
+				"等照片和故事一点点填满这里",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

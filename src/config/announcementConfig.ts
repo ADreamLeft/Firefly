@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "这里先放占位记录，之后会慢慢换成真正的照片和故事。",
+	content: "2026.5.20 - 今天是 2026 年 5 月 20 日，恋爱小站正式开站",
 
 	// 是否允许用户关闭公告
 	closable: true,
